@@ -1,7 +1,9 @@
 # Madara
-Madara replicates PowerShell’s Get-FileHash functionality using Bash scripting.
+**Madara** — File Hashing Tool
 
-Computes the hash value for a file by using a specified hash algorithm.
+Madara replicates PowerShell’s [Get-FileHash](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-filehash?view=powershell-7.5) functionality using Bash scripting.
+
+## Preview
 
 ![preview](preview.png)
 
@@ -66,4 +68,4 @@ Supported algorithms: `SHA1`, `SHA256` (default), `SHA384`, `SHA512`, `MD5`
 
 ## License
 
-Madara is licensed under [Unlicensed license](LICENSE).
+Madara is licensed under [Unlicense license](LICENSE).
