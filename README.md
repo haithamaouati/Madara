@@ -68,4 +68,4 @@ Supported algorithms: `SHA1`, `SHA256` (default), `SHA384`, `SHA512`, `MD5`
 
 ## License
 
-Madara is licensed under [Unlicense license](LICENSE).
+Madara is licensed under [WTFPL](LICENSE).
