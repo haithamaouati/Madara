@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=Madara
-Comment=Madara GUI
-Exec=bash madara_gui.sh
-Icon=icon.png
-Terminal=false
-StartupNotify=false
