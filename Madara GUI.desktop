@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Madara
+Comment=Madara GUI
+Exec=bash /data/data/com.termux/files/home/Desktop/Madara/madara_gui.sh
+Icon=/data/data/com.termux/files/home/Desktop/Madara/icon.png
+Path=/data/data/com.termux/files/home/Desktop/Madara
+Terminal=false
+StartupNotify=false
